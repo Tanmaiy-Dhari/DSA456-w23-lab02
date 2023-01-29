@@ -1,0 +1,19 @@
+Discussion:
+
+According to my observation, the fastest sum_to_goal function had a different approach than the slowest version which was mainly because of use of better syntax and less calculations in the code. Apart from that, the faster method used less variables as well.
+
+For the fibonacci function, using recursion in the code was one of the biggest factors as to why the code was faster than the other version. Since the slower version used loops, it ran multiple times making the process a lot slower.
+
+Reflection
+
+1. Considering the solutions you saw when looking at the lab 1 code, what differences did you see between fastest and slowest versions of code?
+
+Ans. The fastest versions clearly had lesser calculations and better syntax which included assigning less variables and using techniques such as recursion. Apart from that, not using loops was another major factor.
+
+2. Was there a difference in terms of usage of space resource? Did one algorithm use more/less space (memory)?
+
+Ans. There was definitely a difference in space resources. On a small scale, it might not be that much, but for a bigger application, the difference would be more apparent. The algorith using recursion was using more memory.
+
+3. What sort of conclusions can you draw based on your observations?
+
+Ans. From these observations, I can conclude that the loop-based approach takes less space but it's a longer process than the recursion approach which finishes the job quickly while acquiring more memory.
